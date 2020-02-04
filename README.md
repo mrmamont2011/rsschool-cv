@@ -1,2 +1,1 @@
-# rsschool-cv
-tasks rsschool-cv
+Новое описание
